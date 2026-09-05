@@ -49,13 +49,11 @@ A native **Safari Web Extension** for **Twitch** and **Kick** across macOS, iOS,
 <!-- LATEST:START -->
 ## Latest release
 
-**v3.8.4: Accessibility and emote improvements**
+**v3.9.2: Clearer search and activity status**
 
-- Hide AI summaries on Twitch
-- Reduce animations on Twitch and Kick
-- BTTV emotes update without a page reload
-- Emote loading recovers after temporary errors
-- Translations load only when needed
+- Ctrl+F opens Chat Search while typing
+- Command+F stays with Safari page search
+- Inactive pages now explain Purple Crow's status
 
 Full history: [CHANGELOG.md](CHANGELOG.md)
 <!-- LATEST:END -->
